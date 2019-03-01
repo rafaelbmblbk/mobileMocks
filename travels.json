@@ -2,7 +2,7 @@
   {
     "idTravel": 1,
     "nameDriver": "Bere Días",
-    "photoDriver": "",
+    "photoDriver": "../../../../assets/imgs/ine.jpg",
     "point": "Metepec",
     "pointTime": "7:00 am",
     "destiny": "Santa fe",
