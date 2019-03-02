@@ -1,1 +1,47 @@
-
+[
+    {
+        "idNotification":1,
+        "idDriver":1,
+        "nameDriver":"Cesar Cueriel",
+        "photoDriver":"../../../../assets/imgs/driver3.jpg",
+        "notification":"Acaba de reservar un viaje a",
+        "destiny":"Polanco",
+        "time":"10 min"
+    },
+    {
+        "idNotification":2,
+        "idDriver":2,
+        "nameDriver":"Paola Ramirez",
+        "photoDriver":"../../../../assets/imgs/driver7.jpg",
+        "notification":"Cancelo un viaje a",
+        "destiny":"Mundo E",
+        "time":"15 min"
+    },
+    {
+        "idNotification":3,
+        "idDriver":3,
+        "nameDriver":"Eugenia Piña",
+        "photoDriver":"../../../../assets/imgs/driver9.jpg",
+        "notification":"Acaba de reservar un viaje",
+        "destiny":"Santa fe",
+        "time":"20 min"
+    },
+    {
+        "idNotification":4,
+        "idDriver":4,
+        "nameDriver":"Pedro Mendez",
+        "photoDriver":"../../../../assets/imgs/driver1.jpg",
+        "notification":"Acaba de reservar un viaje",
+        "destiny":"Metepec",
+        "time":"25 min"
+    },
+    {
+        "idNotification":5,
+        "idDriver":5,
+        "nameDriver":"Rocio Rojas",
+        "photoDriver":"../../../../assets/imgs/driver10.jpg",
+        "notification":"Cancelo un viaje a",
+        "destiny":"Toreo",
+        "time":"25 min"
+    }
+]
