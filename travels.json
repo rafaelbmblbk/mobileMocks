@@ -12,7 +12,8 @@
         "caseta":"Caseta",
         "seating":4,
         "cuota":55.50,
-        "phone":7345621223
+        "phone":7345621223,
+        "show":false
     },
     {
         "idTravel":2,
@@ -27,7 +28,8 @@
         "caseta":"La libre",
         "seating":4,
         "cuota":50,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     },
     {
         "idTravel":3,
@@ -42,7 +44,8 @@
         "caseta":"Caseta",
         "seating":4,
         "cuota":50,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     },
     {
         "idTravel":4,
@@ -57,7 +60,8 @@
         "caseta":"La libre",
         "seating":4,
         "cuota":60,
-        "phone":7357246723
+        "phone":7357246723,
+        "show":false
     },
     {
         "idTravel":5,
@@ -72,7 +76,8 @@
         "caseta":"La libre",
         "seating":4,
         "cuota":50,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     },
     {
         "idTravel":6,
@@ -87,7 +92,8 @@
         "caseta":"Caseta",
         "seating":4,
         "cuota":50,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     },
     {
         "idTravel":7,
@@ -102,7 +108,8 @@
         "caseta":"La libre",
         "seating":4,
         "cuota":20,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     },
     {
         "idTravel":8,
@@ -117,7 +124,8 @@
         "caseta":"La libre",
         "seating":4,
         "cuota":50,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     },
     {
         "idTravel":9,
@@ -132,7 +140,8 @@
         "caseta":"La libre",
         "seating":3,
         "cuota":70,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     },
     {
         "idTravel":10,
@@ -147,6 +156,7 @@
         "caseta":"La libre",
         "seating":2,
         "cuota":50,
-        "phone":7345656723
+        "phone":7345656723,
+        "show":false
     }
 ]
