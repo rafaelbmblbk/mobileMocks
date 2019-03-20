@@ -1,0 +1,34 @@
+[
+    {
+        "idTravel":5,
+        "nameDriver":"Eugenia Piña",
+        "photoDriver":"../../../../assets/imgs/driver9.jpg",
+        "point":"Farmacias del Ahorro San Mateo",
+        "pointTime":"7:00 am",
+        "destiny":"Satelite",
+        "destinyTime":"9:30 am",
+        "fechaTravel":"20-Feb",
+        "stops":[ "Plazas Outlet", "Toreo", "Satelite" ],
+        "caseta":"La libre",
+        "seating":4,
+        "cuota":50,
+        "phone":7345656723,
+        "show":false
+    },
+    {
+        "idTravel":6,
+        "nameDriver":"Carlos Uriel",
+        "photoDriver":"../../../../assets/imgs/driver4.jpg",
+        "point":"Floresta Crisa",
+        "pointTime":"7:00 am",
+        "destiny":"Mundo E",
+        "destinyTime":"11:30 am",
+        "fechaTravel":"20-Feb",
+        "stops":[ "Crow Plaza", "San mateo Atenco", "Plazas Outlet","Toreo" ],
+        "caseta":"Caseta",
+        "seating":4,
+        "cuota":50,
+        "phone":7345656723,
+        "show":false
+    }
+]
